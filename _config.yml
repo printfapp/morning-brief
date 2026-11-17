@@ -1,0 +1,9 @@
+title: Morning Brief
+description: Top tech stories, filtered to a few topics, every morning at 8.
+theme: minima
+plugins:
+  - jekyll-feed
+permalink: /:year/:month/:day/
+exclude:
+  - scripts
+  - README.md
